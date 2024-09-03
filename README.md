@@ -30,9 +30,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP Manager for IIS
 - rewrite amd64 [https://download.microsoft.com/download/D/8/1/D81E5DD6-1ABB-46B0-9B4B-21894E18B77F/rewrite_x86_en-US.msi]
 - VC redist x86 [https://aka.ms/vs/17/release/vc_redist.x86.exe]
-- PHP (v8.3.11 as of 9/2024) [https://windows.php.net/downloads/releases/php-8.3.11-nts-Win32-vs16-x64.zip]
+- PHP (v8.1) [https://windows.php.net/downloads/releases/php-8.1.29-nts-Win32-vs16-x64.zip]
 - MySQL 5.5.62 [https://downloads.mysql.com/archives/get/p/23/file/mysql-5.5.62-win32.msi]
 - HeidiSQL [https://www.heidisql.com/installers/HeidiSQL_12.8.0.6908_Setup.exe]
+- osTicket (v1.17 as of 9/2024) [https://osticket.com/download/]
 
 <h2>Installation Steps</h2>
 
