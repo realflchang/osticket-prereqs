@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Computer running Windows or Mac
 - Microsoft Remote Desktop Connection from App Store on a Mac.  Windows should have it preinstalled
-- PHP Manager for IIS
+- PHP Manager for IIS - for managing one or many PHP installations compatible with the latest version of IIS - 10
 - rewrite amd64 [https://download.microsoft.com/download/D/8/1/D81E5DD6-1ABB-46B0-9B4B-21894E18B77F/rewrite_x86_en-US.msi]
 - VC redist x86 [https://aka.ms/vs/17/release/vc_redist.x86.exe]
 - PHP (v8.1) [https://windows.php.net/downloads/releases/php-8.1.29-nts-Win32-vs16-x64.zip]
