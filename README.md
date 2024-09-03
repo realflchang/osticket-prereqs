@@ -39,6 +39,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+<p>1. Have an Azure Virtual Machine (VM) up and running Windows 10 Pro or later. Note the Public IP address assigned.</p>
+<img src="https://github.com/user-attachments/assets/66e4f4ad-fc93-4cd8-a458-abf61bd97d09" alt="VM machine in Azure" />
+
+<p>2. Connect to the VM with Microsoft Remote Desktop Connection by entering the IP of the VM:</p>
+<img src="https://github.com/user-attachments/assets/2275a1ad-9096-4c6c-8d66-4edf80215b15" alt="Remote Desktop Connection log in" />
+
+<p>3. Sign in again using the credentials set up with the VM:</p>
+<img src="https://github.com/user-attachments/assets/e53d147e-2ab7-4c7f-8286-1c075f78aefe" alt="Windows Security log in" />
+
+<p>4. Successful signing in to the VM:</p>
+<img src="https://github.com/user-attachments/assets/abad74f4-c2cd-455b-a1b0-39e9d1a33dc6" alt="Initial screen after signing in to VM" />
+
+<p>5. Enable IIS on the VM, by going to Control Panel, then clicking on Programs, then "Turn Windows features on or off".  IIS or Internet Information Services, allows the VM to act as a web server and host our osTicket application.</p>
+<img src="https://github.com/user-attachments/assets/44877038-4cc2-4f42-962d-ce0274c0b9b3" alt="Control Panel Turn Windows features on or off" />
+
+<p>6. Enable IIS Management Console</p>
+<img src="https://github.com/user-attachments/assets/5703cdc7-069c-4da0-805e-8cc189f581da" alt="Enable IIS Management Console" />
+
+<p>7. Enable IIS CGI handling, and Common HTTP Features</p>
+<img src="https://github.com/user-attachments/assets/b7bd73c4-c592-41cf-80a5-9000b1a3d178" alt="Enable IIS CGI and Common HTTP Features" />
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
