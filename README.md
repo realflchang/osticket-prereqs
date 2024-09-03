@@ -27,13 +27,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Computer running Windows or Mac
 - Microsoft Remote Desktop Connection from App Store on a Mac.  Windows should have it preinstalled
-- PHP Manager for IIS - for managing one or many PHP installations compatible with the latest version of IIS - 10
+
+  <b>The following installation files are to be downloaded onto our Azure Virtual Machine:</b>
+- PHP Manager for IIS - for managing one or many PHP installations compatible with the latest version of IIS - 10 [https://drive.google.com/file/d/1ny1YCitkjJ1LjuydfF0ips04FmTGK4iH/view?usp=sharing]
 - rewrite amd64 [https://download.microsoft.com/download/D/8/1/D81E5DD6-1ABB-46B0-9B4B-21894E18B77F/rewrite_x86_en-US.msi]
 - VC redist x86 [https://aka.ms/vs/17/release/vc_redist.x86.exe]
 - PHP (v8.1) [https://windows.php.net/downloads/releases/php-8.1.29-nts-Win32-vs16-x64.zip]
 - MySQL 5.5.62 [https://downloads.mysql.com/archives/get/p/23/file/mysql-5.5.62-win32.msi]
 - HeidiSQL [https://www.heidisql.com/installers/HeidiSQL_12.8.0.6908_Setup.exe]
-- osTicket (v1.17 as of 9/2024) [https://osticket.com/download/]
+- osTicket (v1.17 as of 9/2024) [https://drive.google.com/file/d/1EYs5chYmyalfk49vtw-jpuVkntDPsYRg/view?usp=sharing]
 
 <h2>Installation Steps</h2>
 
