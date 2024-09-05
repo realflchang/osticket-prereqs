@@ -136,5 +136,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/954834b8-bc08-4638-8006-6f9673e0594e" alt="Successful osTicket page" />
 <br /><br />
 
+** We will continue into the next section: [osTicket: Post-Installation Configuration](https://github.com/realflchang/post-install-config).
 
 
